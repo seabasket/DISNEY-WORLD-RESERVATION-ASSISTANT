@@ -5,10 +5,12 @@ It can currently handle all three ticket types (Theme Park Tickets, Resort Hotel
 
 # CURRENTLY WORKING ON
 - Searching thru a date range rather than an individual day.
-- File I/O date packages. (will ask if you would like to search for the most recently searched set of dates/parks/tickets.)
 - Termination window (stop searching after x number of hours).
+- Deleting/editing a date/park/ticket combo if the user wants to.  
 
-# Future Plans
+# Future Plans 
+(In order of priority)
+- File I/O date packages. (will ask if you would like to search for the most recently searched set of dates/parks/tickets.)
 - Notification System (most likely will be handled thru an email account set up for the bot). 
 - A GUI. 
 
