@@ -8,7 +8,7 @@ It can currently handle all three ticket types (Theme Park Tickets, Resort Hotel
 # Currently Working On
 - Searching thru a date range rather than an individual day.
 - Termination window (stop searching after x number of hours).
-- Deleting/editing a date/park/ticket combo if the user wants to.  
+- Deleting/editing a date/park/ticket combo if the user wants to before searching.  
 
 # Future Plans 
 (In order of priority)
