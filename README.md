@@ -5,6 +5,8 @@ The DISNEY WORLD RESERVATION ASSISTANT is an automated selenium powered bot that
 
 It can currently handle all three ticket types (Theme Park Tickets, Resort Hotel Tickets, and Passholders) and can search 2 years into the future for all four parks. It can handle as many date/park/ticket combos as the user wants and returns them on a static command line display. 
 
+NOTE: NOT A SCALPING BOT!!! - For ethical reasons, this bot will not and will never make the actual reservation for you. It will merely notify you when reservations become available. 
+
 # Currently Working On
 - Searching thru a date range rather than an individual day.
 - Termination window (stop searching after x number of hours).
